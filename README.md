@@ -1,4 +1,4 @@
-# Cryptocurrencies
+# Clustering of Cryptocurrencies
 
 ## Overview
 
